@@ -1,6 +1,6 @@
 #Sky_Net
 ##Dados da Turma
-•	**Dia da semana: ** Terça-Feira
+•	Dia da semana: ** Terça-Fei
 •	**Período: ** Noturno
 ## Integrantes
 RA	NOME COMPLETO	CURSO	TURMA
